@@ -1,4 +1,3 @@
-//import icons from "../img/icons.svg"; // Parcel 1
 import * as model from './model.js';
 import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
